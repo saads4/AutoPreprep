@@ -1,0 +1,29 @@
+negligible
+minor
+moderate
+major
+critical
+
+low
+medium
+high
+critical
+
+mild
+moderate
+severe
+
+minimal
+moderate
+severe
+extreme
+
+minor
+serious
+severe
+critical
+
+low risk
+moderate risk
+high risk
+critical risk

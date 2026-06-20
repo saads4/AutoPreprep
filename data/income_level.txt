@@ -1,0 +1,17 @@
+low income
+middle income
+upper middle income
+high income
+
+low
+medium
+high
+
+basic
+standard
+premium
+
+bronze
+silver
+gold
+platinum

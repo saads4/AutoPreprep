@@ -1,0 +1,13 @@
+very low
+low
+medium
+high
+very high
+
+weak
+moderate
+strong
+
+low confidence
+medium confidence
+high confidence

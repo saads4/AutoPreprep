@@ -1,0 +1,16 @@
+g
+f
+e
+d
+c
+b
+a
+
+substandard
+standard
+prime
+
+poor
+average
+good
+excellent

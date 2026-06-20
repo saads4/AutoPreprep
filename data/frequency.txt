@@ -1,0 +1,20 @@
+never
+rarely
+sometimes
+often
+always
+
+never
+occasionally
+frequently
+always
+
+very rare
+rare
+common
+frequent
+
+seldom
+sometimes
+usually
+always

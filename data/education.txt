@@ -1,0 +1,23 @@
+primary
+secondary
+high school
+bachelor
+master
+doctorate
+
+elementary
+middle school
+high school
+graduate
+postgraduate
+
+high school
+associate
+bachelor
+master
+phd
+
+school
+college
+university
+doctorate

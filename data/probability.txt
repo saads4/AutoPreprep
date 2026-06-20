@@ -1,0 +1,20 @@
+impossible
+unlikely
+possible
+likely
+certain
+
+very low
+low
+medium
+high
+very high
+
+rare
+possible
+probable
+certain
+
+unlikely
+likely
+highly likely

@@ -1,0 +1,23 @@
+xs
+s
+m
+l
+xl
+xxl
+
+extra small
+small
+medium
+large
+extra large
+
+tiny
+small
+medium
+large
+huge
+
+compact
+standard
+large
+oversized

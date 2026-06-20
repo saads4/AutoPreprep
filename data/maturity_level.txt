@@ -1,0 +1,15 @@
+initial
+developing
+defined
+managed
+optimized
+
+beginner
+intermediate
+advanced
+expert
+
+basic
+standard
+professional
+enterprise

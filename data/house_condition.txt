@@ -1,0 +1,17 @@
+very poor
+poor
+fair
+average
+good
+excellent
+
+dilapidated
+needs repair
+average
+good
+excellent
+
+bad
+fair
+good
+outstanding

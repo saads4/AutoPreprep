@@ -1,0 +1,18 @@
+poor
+fair
+good
+excellent
+
+critical
+serious
+stable
+recovered
+
+weak
+average
+healthy
+
+bad
+moderate
+good
+very good

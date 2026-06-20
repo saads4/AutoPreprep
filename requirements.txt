@@ -1,0 +1,6 @@
+pandas
+numpy
+langchain-community
+sentence-transformers
+chromadb
+tqdm

@@ -1,0 +1,20 @@
+unsatisfactory
+needs improvement
+meets expectations
+exceeds expectations
+outstanding
+
+poor
+average
+good
+excellent
+
+below average
+average
+above average
+exceptional
+
+weak
+competent
+strong
+outstanding

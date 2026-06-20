@@ -1,0 +1,23 @@
+low
+medium
+high
+urgent
+
+p4
+p3
+p2
+p1
+
+minor
+normal
+important
+critical
+
+routine
+priority
+urgent
+
+low priority
+medium priority
+high priority
+critical priority

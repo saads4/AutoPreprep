@@ -1,0 +1,13 @@
+infant
+child
+teen
+adult
+senior
+
+young
+middle aged
+old
+
+youth
+adult
+elderly

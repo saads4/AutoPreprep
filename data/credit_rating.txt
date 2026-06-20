@@ -1,0 +1,20 @@
+poor
+fair
+good
+excellent
+
+d
+c
+b
+a
+
+ccc
+bb
+bbb
+a
+aa
+aaa
+
+subprime
+prime
+super prime

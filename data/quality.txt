@@ -1,0 +1,30 @@
+poor
+fair
+typical
+good
+excellent
+
+very poor
+poor
+average
+good
+excellent
+
+bad
+average
+good
+very good
+
+unsatisfactory
+average
+good
+excellent
+
+inferior
+average
+superior
+
+low quality
+medium quality
+high quality
+premium
