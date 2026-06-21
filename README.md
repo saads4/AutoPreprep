@@ -1,4 +1,4 @@
-# AutoPreprocessor
+# AutoPreprep
 
 An experimental AutoML preprocessing engine that combines traditional rule-based preprocessing with a lightweight Retrieval-Augmented Generation (RAG) system to automatically suggest encoding strategies for tabular datasets.
 
