@@ -112,7 +112,29 @@ This loads the `.txt` files from `data/`, generates embeddings with `SentenceTra
 
 2. Run `AutoPreprocessor.ipynb`.
 
-When prompted, enter the path to your CSV file. The notebook reads the dataset, classifies columns, queries the existing ChromaDB collection for ordinal encoding hints, and prints the preprocessing groups.
+The notebook now exposes a class-based API similar to a Scikit-Learn transformer.
+
+```python
+import pandas as pd
+
+data = pd.read_csv("path/to/your/data.csv")
+
+auto = AutoPreprocessor()
+
+auto.fit(data)
+
+print(auto.report_)
+
+X_processed = auto.transform(data)
+```
+
+You can also fit and transform in one step:
+
+```python
+X_processed = auto.fit_transform(data)
+```
+
+During `fit()`, the class reads the dataset, classifies columns, queries the existing ChromaDB collection for ordinal encoding hints, builds the preprocessing pipelines, creates a `ColumnTransformer`, fits it, and stores the preprocessing decision report in `auto.report_`.
 
 Re-run `rag_ingestion.ipynb` only when the `.txt` reference files in `data/` change.
 
@@ -127,12 +149,11 @@ Current capabilities:
 * Rule-based preprocessing
 * RAG-based ordinal detection
 * Persistent vector database using ChromaDB
+* Class-based `AutoPreprocessor` API with `fit()`, `transform()`, and `fit_transform()`
 
 Planned improvements:
 
 * Support for one-hot pattern retrieval
-* Automatic sklearn Pipeline generation
-* `fit()` and `transform()` methods
 * Feature type inference
 * Time-series support
 * Better scaling heuristics
