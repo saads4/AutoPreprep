@@ -1,6 +1,7 @@
 pandas
 numpy
-langchain-community
+scikit-learn
+tqdm
 sentence-transformers
 chromadb
-tqdm
+langchain-community
